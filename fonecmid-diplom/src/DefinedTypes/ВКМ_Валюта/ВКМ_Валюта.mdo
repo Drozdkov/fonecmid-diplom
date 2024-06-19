@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DefinedType xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="0f5e9f7e-8805-4c36-a37b-c98c9108bd7a">
+  <producedTypes>
+    <containerType typeId="9da38e7e-1b62-47a5-9eca-81ecf62bec38" valueTypeId="34f25925-d61a-464a-8540-73d94e6e59e9"/>
+  </producedTypes>
+  <name>ВКМ_Валюта</name>
+  <synonym>
+    <key>ru</key>
+    <value>ВКМ валюта</value>
+  </synonym>
+  <type>
+    <types>Number</types>
+    <numberQualifiers>
+      <precision>15</precision>
+      <scale>2</scale>
+    </numberQualifiers>
+  </type>
+</mdclass:DefinedType>
